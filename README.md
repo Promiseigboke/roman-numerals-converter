@@ -1,2 +1,2 @@
 # roman-numerals-converter
-This is my secon JavaScript Algorithm project in freecodedamp
+This is my second JavaScript Algorithm project in freecodedamp
