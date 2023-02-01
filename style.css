@@ -40,8 +40,16 @@
     margin: 0.2rem 0.2rem;
     width: 9rem;
     height: 9rem;
-    background-color: hsla(332, 89%, 41%, 0.961);
+    background-color: rgb(189, 126, 1);
     color: white;
     font-weight: 600;
-    border-radius: 1rem;
+    border-radius: 0.2rem;
+    box-shadow: 0 0 1rem 0.25rem;
+    transition-duration: 0.2s;
+}
+
+.special {
+ margin: 0.2rem 0.3rem;
+ width: 11.5rem;   
+ height: 9rem;
 }
