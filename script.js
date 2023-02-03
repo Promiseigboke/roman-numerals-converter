@@ -4,3 +4,10 @@ function handleMouseOver(arabic) {
     currentButton.style.zIndex = '9'
     currentButton.textContent = arabic
 }
+
+function handleMouseOut (id, roman) {
+    let currentButton = document.getElementById(id)
+    currentButton.style.transform = 'scale(1)'
+    currentButton.stylezIndex ='0'
+    currentButton.textContent = roman
+}
